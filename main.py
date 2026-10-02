@@ -4,4 +4,4 @@ print("Git and GitHub Collaboration Assignment")
 name = input("Enter your name: ")
 print("Welcome,", name)
 
-print("New feature: User login message added.")
+print("Conflict demo: Version B")
